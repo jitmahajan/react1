@@ -1,6 +1,6 @@
 function Footer(){
     return (
-    <div class="ccontainer-fluid bg-success">
+    <div class="ccontainer-fluid bg-success fs-3 text-light">
         <div>Points Table
         </div>
         <div>Watch Highlights</div>
