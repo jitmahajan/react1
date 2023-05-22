@@ -1,7 +1,14 @@
 function Footer(){
     return (
-    <div>
-        <h1>Here are the Highlights from IPL 2023 match between RCB and GT, straight from Bengaluru:</h1>
+    <div class="ccontainer-fluid bg-success">
+        <div>Points Table
+        </div>
+        <div>Watch Highlights</div>
+        <div>Upcomming Matches</div>
+        
+        <div class="d-flex justify-content-center">Contact Us</div>
+        <div class="d-flex justify-content-center">About Us</div>
+        <div class= "d-flex justify-content-center">Terms And Conditions</div>
     </div>
 
     ); 
